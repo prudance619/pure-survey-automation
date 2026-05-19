@@ -1,0 +1,23 @@
+# Copy of automated live exploration (see also target/live-exploration.txt after running AppExplorer)
+
+Application URL: https://survey.co.za/app/login
+Platform title: Pure Survey | Platform
+
+Login fields: email, password, Remember me, Sign in
+After login: https://survey.co.za/app (Dashboard)
+
+Side nav: Dashboard, Surveys, Question Bank, Translations, Insight Reports
+Top nav: Surveys, Distribution, Compliance, Integrations, Administration
+
+Surveys list: /app/surveys — filters All/Draft/Active/Closed/Archived, Create Survey, search
+Question Bank: /app/question-bank
+Translations: /app/translations — heading "Survey Translations"
+Insight Reports: /app/insight-reports
+
+Distribution (top nav button, then sub-links):
+  Distribution Lists: /app/lists
+  Panels: /app/panels
+  Email Templates: /app/email-templates
+  WhatsApp Templates: /app/whatsapp-templates
+
+NOTE: Top "Surveys" button does NOT navigate — use left side nav "Surveys" link.
